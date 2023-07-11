@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: miltonrodrigues/gitops
-  newTag: newTag
+  newTag: 57b34f6c5020055863bd9fefc9d62b9c2aa92260
